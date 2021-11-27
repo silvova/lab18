@@ -1,4 +1,4 @@
-//вместо map использовать cache map
+//вместо map использовать hashmap
 #include "LRUcache.h"
 
 int main() {
